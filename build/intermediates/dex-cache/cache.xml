@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/jorgejaramillo/AndroidStudioProjects/TransGO/app/libs/httpcore-4.4.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e3fd8ced1f52c7574af952e2e6da0df8df08eb82">
+        <dex dex="/Users/jorgejaramillo/AndroidStudioProjects/TransGO/app/build/intermediates/pre-dexed/debug/httpcore-4.4.6_d14fccb3397ea9762e6266b004c91a795c0120f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jorgejaramillo/AndroidStudioProjects/TransGO/app/libs/fluent-hc-4.5.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="76487e3a4fa77b2dd6cb1927ea423e220d7efbab">
+        <dex dex="/Users/jorgejaramillo/AndroidStudioProjects/TransGO/app/build/intermediates/pre-dexed/debug/fluent-hc-4.5.3_16e1f2db11b0bb98f868c30a9c546b1195f1c35a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jorgejaramillo/AndroidStudioProjects/TransGO/app/libs/httpmime-4.5.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="889fd6d061bb63b99dd5c6aba35a555ae863de52">
+        <dex dex="/Users/jorgejaramillo/AndroidStudioProjects/TransGO/app/build/intermediates/pre-dexed/debug/httpmime-4.5.3_fb713afa01e18aad2e9b1bd259bd6a87ac18ef43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jorgejaramillo/AndroidStudioProjects/TransGO/app/libs/httpclient-win-4.5.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0f51e959ce76cae4e0b7513aae442bcd4d542b99">
+        <dex dex="/Users/jorgejaramillo/AndroidStudioProjects/TransGO/app/build/intermediates/pre-dexed/debug/httpclient-win-4.5.3_cb87becd21f0ef593e4fdb87dcfd1224411bd868.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jorgejaramillo/AndroidStudioProjects/TransGO/app/libs/jna-platform-4.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="23457ad1cf75c2c16763330de5565a0e67b4bc0a">
+        <dex dex="/Users/jorgejaramillo/AndroidStudioProjects/TransGO/app/build/intermediates/pre-dexed/debug/jna-platform-4.1.0_14c812cb6dd58005eec0243ced5e8dcbcde2921e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jorgejaramillo/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/Users/jorgejaramillo/AndroidStudioProjects/TransGO/app/build/intermediates/pre-dexed/debug/library-1.0.19_559f1bb439c7cb5317605e800558b8ab96066eca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jorgejaramillo/AndroidStudioProjects/TransGO/app/libs/commons-codec-1.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ce04e34240f674bc72680f8b843b1457383161a">
+        <dex dex="/Users/jorgejaramillo/AndroidStudioProjects/TransGO/app/build/intermediates/pre-dexed/debug/commons-codec-1.9_c4ac63c7753ec113064478f6cdce8a4aef4bb375.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jorgejaramillo/AndroidStudioProjects/TransGO/app/libs/commons-logging-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4bfc12adfe4842bf07b657f0369c4cb522955686">
+        <dex dex="/Users/jorgejaramillo/AndroidStudioProjects/TransGO/app/build/intermediates/pre-dexed/debug/commons-logging-1.2_d5bfa91381dd48e3781587df60a5f7be050ecf1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jorgejaramillo/AndroidStudioProjects/TransGO/app/libs/httpclient-cache-4.5.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="baa6474c7f9b9f027a02fbbee375263ac482e343">
+        <dex dex="/Users/jorgejaramillo/AndroidStudioProjects/TransGO/app/build/intermediates/pre-dexed/debug/httpclient-cache-4.5.3_0cdb70796c9de189e0dbafa0348ee4e247afa792.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jorgejaramillo/AndroidStudioProjects/TransGO/app/libs/httpclient-4.5.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d1577ae15f01ef5438c5afc62162457c00a34713">
+        <dex dex="/Users/jorgejaramillo/AndroidStudioProjects/TransGO/app/build/intermediates/pre-dexed/debug/httpclient-4.5.3_c956a4e30da9dfca57393766a510cf99c1f3e623.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jorgejaramillo/AndroidStudioProjects/TransGO/app/libs/jna-4.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1c12d070e602efd8021891cdd7fd18bc129372d4">
+        <dex dex="/Users/jorgejaramillo/AndroidStudioProjects/TransGO/app/build/intermediates/pre-dexed/debug/jna-4.1.0_f4221326d730be256575b1e532c31c15d2dae6f4.jar" />
+    </item>
+
+</items>
